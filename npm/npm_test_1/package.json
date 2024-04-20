@@ -1,0 +1,18 @@
+{
+  "name": "fe_tangytin",
+  "version": "1.0.0",
+  "description": "npm start way (test)",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyt101/second-year/npm/npm_test_1.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "tangytin",
+  "license": "ISC"
+}
