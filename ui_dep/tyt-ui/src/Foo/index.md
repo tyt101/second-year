@@ -3,7 +3,7 @@
 This is an example component.
 
 ```jsx
-import { Foo } from 'dumi_test_ui';
+import { Foo } from 'tyt-ui';
 
 export default () => <Foo title="Hello dumi!" />
 ```

@@ -1,9 +1,9 @@
-# dumi_test_ui
+# tyt-ui
 
-[![NPM version](https://img.shields.io/npm/v/dumi_test_ui.svg?style=flat)](https://npmjs.org/package/dumi_test_ui)
-[![NPM downloads](http://img.shields.io/npm/dm/dumi_test_ui.svg?style=flat)](https://npmjs.org/package/dumi_test_ui)
+[![NPM version](https://img.shields.io/npm/v/tyt-ui.svg?style=flat)](https://npmjs.org/package/tyt-ui)
+[![NPM downloads](http://img.shields.io/npm/dm/tyt-ui.svg?style=flat)](https://npmjs.org/package/tyt-ui)
 
-a dumi ui test project
+A react library developed with dumi
 
 ## Usage
 

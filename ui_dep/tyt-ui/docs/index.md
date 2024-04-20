@@ -1,7 +1,7 @@
 ---
 hero:
   title: library
-  description: a dumi ui test project
+  description: A react library developed with dumi
   actions:
     - text: Hello
       link: /
@@ -19,4 +19,4 @@ features:
     description: Put ! description here
 ---
 
-dumi_test_ui
+tyt-ui
