@@ -1,6 +1,6 @@
 {
   "name": "fe_tangytin",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.1",
   "description": "npm start way (test)",
   "main": "app.js",
   "scripts": {
