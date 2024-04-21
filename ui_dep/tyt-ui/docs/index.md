@@ -1,22 +1,10 @@
 ---
 hero:
-  title: library
-  description: A react library developed with dumi
+  title: My Work And Life
+  description: I don't think you like it!
   actions:
-    - text: Hello
+    - text: Component
       link: /
-    - text: World
+    - text: Life
       link: /
-features:
-  - title: Hello
-    emoji: 💎
-    description: Put hello description here
-  - title: World
-    emoji: 🌈
-    description: Put world description here
-  - title: '!'
-    emoji: 🚀
-    description: Put ! description here
 ---
-
-tyt-ui
