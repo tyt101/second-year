@@ -21,5 +21,6 @@ export default function DashboardPage() {
   <Link href="/dashboard/about">Link跳转至about:</Link>
   <h2 onClick={() => {router.push('/dashboard/about', { scroll: false })}}>h2跳转至about:</h2>
   <h3>pathname: { pathname }</h3>
+  
   </>;
 }

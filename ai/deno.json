@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@langchain/community/": "npm:/@langchain/community/"
+  },
+  "deno.enable": true
+}
